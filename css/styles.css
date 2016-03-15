@@ -1,0 +1,29 @@
+
+body {
+  background: #f6efe5;
+  font-family: sans-serif;
+}
+h1 {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+#seal {
+  width: 25%;
+}
+#subheading {
+  background-image: url("file://img/vineheader.jpg") no-repeat top left;
+  /*background-color: #fff;*/
+  text-align: center;
+  margin: 0 auto;
+  width: 800px;
+  height: 150px;
+  color: #3C59B2;
+}
+li {
+  font-style:oblique;
+  font-weight:lighter;
+  font-family:cursive;
+  font-size: 1.5em:
+  line-height: 80%;
+}
